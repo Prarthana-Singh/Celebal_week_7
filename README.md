@@ -1,8 +1,8 @@
 # 🌟 ML Model Deployment with Streamlit
 
-This project demonstrates how to deploy a trained machine learning model using [Streamlit](https://streamlit.io). The app provides an interactive interface where users can input data, receive model predictions, and understand outputs through visualizations.
+This project demonstrates how to deploy a trained machine learning model using [Render](https://render.com/). The app provides an interactive interface where users can input data, receive model predictions, and understand outputs through visualizations.
 ---
-LIVE LINK - https://celebal7thweek.streamlit.app/
+LIVE LINK - https://celebal-week-7.onrender.com
 
 ## 📁 Project Structure
 
