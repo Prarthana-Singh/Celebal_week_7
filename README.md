@@ -1,4 +1,4 @@
-# 🌟 ML Model Deployment with Streamlit
+# 🌟 ML Model Deployment with Render
 
 This project demonstrates how to deploy a trained machine learning model using [Render](https://render.com/). The app provides an interactive interface where users can input data, receive model predictions, and understand outputs through visualizations.
 ---
